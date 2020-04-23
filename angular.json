@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "anBlok4"
+    }
+  },
+  "defaultProject": "anBlok4",
+  "cli": {
+    "analytics": "e0e94c59-f0e2-46a5-bdca-60ec48e40002"
+  }
 }

@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'anBlok4';
+  isVisible = true;
+  isVisibleTagle() {
+    this.isVisible = !this.isVisible;
+  }
 }
